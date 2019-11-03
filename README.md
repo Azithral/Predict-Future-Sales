@@ -5,5 +5,5 @@ This repository is for a Pytorch LSTM approach for Kaggle competion [Predict Fut
 ![alt text](https://github.com/Azithral/Predict-Future-Sales/blob/master/Images/Kaggle%20score.JPG)
 
 ## Requirements:
-*certifi==2019.9.11
-*abc            
+* certifi==2019.9.11
+* abc            
