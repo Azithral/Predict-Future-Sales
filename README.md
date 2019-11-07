@@ -3,6 +3,7 @@ This repository is for a Pytorch LSTM approach for Kaggle competition [Predict F
 
 ## Kaggle Score
 For this competition, the aim is to minimise your score. 
+
 | Model | Kaggle Score |
 |----------|-----------|
 | LSTM     |  1.22582  |
