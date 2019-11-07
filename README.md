@@ -1,10 +1,14 @@
 ## Predict-Future-Sales
-This repository is for a Pytorch LSTM approach for Kaggle competition [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview). The jupyter notebook contains the code and the neccesary comments. The datasets can be obtained from the Kaggle page.
+This repository is for a Pytorch LSTM approach for Kaggle competition [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview). The jupyter notebooks contains the code and the neccesary comments. The datasets can be obtained from the Kaggle page.
 
 ## Kaggle Score
-![alt text](https://github.com/Azithral/Predict-Future-Sales/blob/master/Images/Kaggle%20score.JPG)
+For this competition, the aim is to minimise your score. 
+| Model | Kaggle Score |
+|----------|-----------|
+| LSTM     |  1.22582  |
+|XGBRegressor | 1.08488 |
 
-## Requirements:
+## Requirements for LSTM:
 * certifi==2019.9.11
 * cffi==1.13.1
 * cycler==0.10.0
