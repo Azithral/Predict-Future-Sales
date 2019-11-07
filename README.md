@@ -2,7 +2,7 @@
 This repository is for a Pytorch LSTM approach for Kaggle competition [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview). The jupyter notebooks contains the code and the neccesary comments. The datasets can be obtained from the Kaggle page.
 
 ## Kaggle Score
-For this competition, the aim is to minimise your score. 
+For this competition, the aim is to minimize your score.
 
 | Model | Kaggle Score |
 |----------|-----------|
